@@ -40,7 +40,7 @@ $ . venv/bin/activate
 本リポジトリを取得します。
 
 ```
-(venv)$ git clone https://github.com/sky-joker/VMUG20220727.git
+(venv)$ git clone https://github.com/congto/VMUG20220727.git
 (venv)$ cd VMUG20220727
 ```
 
